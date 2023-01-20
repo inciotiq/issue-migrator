@@ -7,7 +7,7 @@ ISSUES_CSV_FILENAME = 'iotiq-coworking-coworkingapi_issues_2023-01-20.csv'
 # paste your repo url
 REPO_URL = 'https://api.github.com/repos/{organization}/{repo}/issues'
 # create a fine grain token with issue permissions
-GITHUB_TOKEN = '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'
+GITHUB_TOKEN = '<github token>'
 
 
 def parse_issues():
